@@ -62,3 +62,7 @@
 Текст [пример ссылки](http.example.com "Всплывающая подсказка")
 
 
+Column | Column | Column
+:----- | :----: | -----:
+Left   | Center | Right
+align  | align  | align
