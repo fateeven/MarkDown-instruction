@@ -66,3 +66,11 @@ Column | Column | Column
 :----- | :----: | -----:
 Left   | Center | Right
 align  | align  | align
+
+### Кот
+
+![kat](кот.jpeg)
+
+### Собака
+
+![dog](пес.jpg)
